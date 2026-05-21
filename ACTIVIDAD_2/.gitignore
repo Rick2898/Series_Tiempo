@@ -1,0 +1,12 @@
+series_a2/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+data/
+*.csv
+*.xlsx
+*.parquet
+*.pbix
+
+.DS_Store
